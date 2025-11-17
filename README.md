@@ -136,12 +136,6 @@ Se ocorrerem erros como *“Windows fatal exception: access violation”*, recom
 
 ---
 
-## 📘 Licença
-
-Inclua aqui sua licença preferida (ex.: MIT, BSD, GPL).
-
----
-
 ## ✨ Autoria
 
 **Ana Luisa Maffini**  
